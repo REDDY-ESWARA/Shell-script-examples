@@ -10,7 +10,6 @@ Welcome to the **Shell Script Examples** repository! This repository contains si
 - [Scripts Overview](#scripts-overview)
 - [How to Use](#how-to-use)
 - [Contributing](#contributing)
-- [License](#license)
 
 ## Introduction
 
